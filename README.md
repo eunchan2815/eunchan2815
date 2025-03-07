@@ -1,10 +1,10 @@
 ## 안녕하세요 김은찬입니다 👋
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/eunchan2815"
-  width="900"
-  height="300"
-/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=eunchan2815&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/eunchan2815"
+    width="600"
+    height="120"
+  />
 </a>
 <!--
 **eunchan2815/eunchan2815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
